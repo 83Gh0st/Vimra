@@ -1,20 +1,15 @@
 # Vimra
 
 Vimra is a comprehensive course generation application designed to streamline the creation and management of educational content. Leveraging technologies such as MongoDB, Stripe, OpenAI, Prisma, Next.js, and Tailwind CSS, Vimra offers a robust platform for educators and content creators.
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) **Course Creation**: Easily generate and manage courses with a user-friendly interface.
-- ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white) **Payment Integration**: Secure payment processing powered by Stripe.
-- ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) **AI Assistance**: Utilize OpenAI for content suggestions and enhancements.
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) **Database Management**: Efficient data handling with MongoDB and Prisma.
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) **Responsive Design**: Sleek and responsive user interface built with Next.js and Tailwind CSS.
-- ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) For future video tutorials and integrations.
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) 
 
 ## Features
 
-- **Course Creation**: Easily generate and manage courses with a user-friendly interface.
-- **Payment Integration**: Secure payment processing powered by Stripe.
-- **AI Assistance**: Utilize OpenAI for content suggestions and enhancements.
-- **Database Management**: Efficient data handling with MongoDB and Prisma.
-- **Responsive Design**: Sleek and responsive user interface built with Next.js and Tailwind CSS.
+- **Course Creation**![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) : Easily generate and manage courses with a user-friendly interface.
+- **Payment Integration**![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white): Secure payment processing powered by Stripe.
+- **AI Assistance**![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) : Utilize OpenAI for content suggestions and enhancements.
+- **Database Management**![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) : Efficient data handling with MongoDB and Prisma.
+- **Responsive Design**![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white): Sleek and responsive user interface built with Next.js and Tailwind CSS.
 
 
 ## Relevance of the Project
